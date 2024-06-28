@@ -1,3 +1,37 @@
 .red {
     color: red;
 }
+.site_header{
+    width: 100%;
+    padding: 30px 4% 10px;
+    background-color: aquamarine;
+}
+.header_nav {
+    margin: 0 0 0 50%;
+ }
+ ul {
+    list-style: none;
+    margin: 0;
+    display: flex;
+ }
+ li {
+    margin: 0 0 0 15px;
+    font-size: 14px;
+ }
+ a {	
+    text-decoration: none;
+    color: #4b4b4b;
+ }
+ header {
+    padding: 30px 4% 10px;
+    position:absolute;
+    top: 0;
+    width: 100%;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+ }
+ .kagawa{
+
+ }
+ 
