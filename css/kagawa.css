@@ -1,0 +1,22 @@
+.content {
+    border: solid 3px black;
+    display: inline-block;
+    text-align: center;
+    min-width: 100px;
+    background: #e7b338;
+    padding: 5px;
+}
+
+.detail {
+    background-color: beige;
+    margin: 5px;
+    padding: 5px;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    padding-left: 0;
+}
